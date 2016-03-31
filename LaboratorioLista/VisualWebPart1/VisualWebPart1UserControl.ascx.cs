@@ -18,7 +18,7 @@ namespace LaboratorioLista.VisualWebPart1
             SPQuery query = new SPQuery();
 
             //Insertamos la querty enb la variable query
-            query.Query = @"<where><Eq><FieldRef Name=""Estado""></FieldRef><Value Type=""Choice"">Pendiente</Value></Eq></where>";
+            query.Query = @"<Where><Eq><FieldRef Name=""Estado""></FieldRef><Value Type=""Choice"">Pendiente</Value></Eq></Where>";
 
          
             //Decimos los campos que queremos consultar con la query

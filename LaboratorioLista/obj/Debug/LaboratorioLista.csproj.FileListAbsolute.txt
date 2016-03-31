@@ -79,3 +79,4 @@ c:\users\ericame\documents\visual studio 2015\Projects\LaboratorioLista\Laborato
 c:\users\ericame\documents\visual studio 2015\Projects\LaboratorioLista\LaboratorioLista\bin\Debug\zh-Hant\System.Spatial.resources.dll
 c:\users\ericame\documents\visual studio 2015\Projects\LaboratorioLista\LaboratorioLista\obj\Debug\LaboratorioLista.dll
 c:\users\ericame\documents\visual studio 2015\Projects\LaboratorioLista\LaboratorioLista\obj\Debug\LaboratorioLista.pdb
+C:\Users\ericame\Documents\Visual Studio 2015\Projects\LaboratorioLista\LaboratorioLista\obj\Debug\LaboratorioLista.csprojResolveAssemblyReference.cache
